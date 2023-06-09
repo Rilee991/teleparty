@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/teleparty/static/css/main.1584fdbd.css",
+    "main.js": "/teleparty/static/js/main.0e82b1cc.js",
+    "static/js/787.770436cb.chunk.js": "/teleparty/static/js/787.770436cb.chunk.js",
+    "index.html": "/teleparty/index.html",
+    "main.1584fdbd.css.map": "/teleparty/static/css/main.1584fdbd.css.map",
+    "main.0e82b1cc.js.map": "/teleparty/static/js/main.0e82b1cc.js.map",
+    "787.770436cb.chunk.js.map": "/teleparty/static/js/787.770436cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1584fdbd.css",
+    "static/js/main.0e82b1cc.js"
+  ]
+}
